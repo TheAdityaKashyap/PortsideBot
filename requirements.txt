@@ -1,9 +1,8 @@
 flask
 sentence-transformers
 torch
-json
-BeautifulSoup
-re
+beautifulsoup4
 gunicorn
+requests
 
 

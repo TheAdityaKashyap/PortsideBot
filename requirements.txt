@@ -1,0 +1,9 @@
+flask
+sentence-transformers
+torch
+json
+BeautifulSoup
+re
+gunicorn
+
+
